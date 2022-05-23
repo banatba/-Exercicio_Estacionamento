@@ -2,7 +2,8 @@
 # -Repositório destinado ao Exercício proposto pelo Professor Daniel Ohata
 # ALGORÍTMO DO EXERCÍCIO
 inicio
-#Digitar se o usuário é Idoso, Deficiente, Gestante ou nenhum dos três
+Cancel changes
+Digitar se o usuário é Idoso, Deficiente, Gestante ou nenhum dos três
 Enquanto É Idoso? Faça
      Exibir que pode Estacionar
 Fim Enquanto
