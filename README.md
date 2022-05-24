@@ -2,8 +2,7 @@
 # -Repositório destinado ao Exercício proposto pelo Professor Daniel Ohata
 # ALGORÍTMO DO EXERCÍCIO
 inicio
-""
-Cancel changes
+ Cancel changes
 Digitar se o usuário é Idoso, Deficiente, Gestante ou nenhum dos três
 Enquanto É Idoso? Faça
      Exibir que pode Estacionar
@@ -15,8 +14,7 @@ Enquanto É Gestante? Faça
      Exibir que pode estacionar
 Fim Enquanto
 Enquanto Nenhum dos três? Faça
-     Exibir que não pode estacionar
-     ""
+     Exibir que não pode estacionar     
 Fim Enquanto
 
 
